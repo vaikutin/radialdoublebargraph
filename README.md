@@ -6,17 +6,8 @@ Developing radial double column bar chart.
 
 The radial column bar chart is used in Justbrowse for visualization of user’s gesture data (Microgestures) collected from the apps of Forethink Oy services. It is visualizing user’s preference in positive & negative ways on each product cards of a deck which is organized in a circular way. 
 
-Sample code: (Under development)
-https://codepen.io/alfpooh/pen/YdLMdO
-
-
-
-
-API:
-Getting a JSON from a deck. 
-http://www.justbrow.se/dec2viz/[publisher]/[curation]  (Currently, return a test data)
-publisher: name of the publisher in Firebase (e.g. jb4netflix)
-curation: number of a deck. Currently, only 1 is used. 
+Sample code:
+https://codepen.io/alfpooh/pen/zyPvNd
 
 Terminology
 Deck: A structured cards to run a justbrow.se service. Categorized cards is organized in a circular way.
